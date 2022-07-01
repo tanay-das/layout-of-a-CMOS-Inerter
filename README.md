@@ -37,4 +37,5 @@ Here is the symbol for a CMOS Inverter
 
 ![layout](https://user-images.githubusercontent.com/55503850/176510368-8501006d-dc23-478e-98cc-8bfccb729942.PNG)
 
-Technology node: 100nm
+Technology node: 90nm
+
